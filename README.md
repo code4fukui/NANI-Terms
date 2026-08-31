@@ -8,6 +8,10 @@
 
 正式版: [日本語](versions/v1.0/TERMS-ja.md) / [English](versions/v1.0/TERMS-en.md) · [FAQ](FAQ.md) · [採用例](examples/README-ja.md)
 
+- 表記：**NANI Terms**
+- 読み：**ナニ・タームズ**
+- 意味：**NANI標準利用規約**
+
 ## NANI Terms とは
 
 NANI は **No Warranty, As-Is, No Liability, It's on you.** の略です。日本語なら「保証なし。現状のまま。責任は限定的。使うかどうかはあなたの判断で。」というニュアンスです。
@@ -42,13 +46,13 @@ NANI は **No Warranty, As-Is, No Liability, It's on you.** の略です。日�
 GitHub Markdown:
 
 ```md
-本サービスには [NANI Terms v1.0](https://github.com/YOUR-ACCOUNT/NANI-Terms/blob/main/versions/v1.0/TERMS-ja.md) が適用されます。
+本サービスには [NANI Terms v1.0](https://github.com/code4fukui/NANI-Terms/blob/main/versions/v1.0/TERMS-ja.md) が適用されます。
 ```
 
 HTML:
 
 ```html
-<p>本サービスには <a href="https://github.com/YOUR-ACCOUNT/NANI-Terms/blob/main/versions/v1.0/TERMS-ja.md">NANI Terms v1.0</a> が適用されます。</p>
+<p>本サービスには <a href="https://github.com/code4fukui/NANI-Terms/blob/main/versions/v1.0/TERMS-ja.md">NANI Terms v1.0</a> が適用されます。</p>
 ```
 
 英語表記:
@@ -57,7 +61,7 @@ HTML:
 This service is provided under NANI Terms v1.0.
 ```
 
-詳しい例は [Web サイト用](examples/website-ja.html) と [README 用](examples/README-ja.md) にあります。`YOUR-ACCOUNT` は公開先の GitHub アカウント名に置き換えてください。
+詳しい例は [Web サイト用](examples/website-ja.html) と [README 用](examples/README-ja.md) にあります。
 
 ## 超短縮版
 
@@ -84,4 +88,3 @@ NANI Terms は一般的なひな型であり、弁護士その他の専門家に
 ライセンス上、改変自体は可能です。ただし名称と版の混同を避けるため、改変版を公式の「NANI Terms v1.0」と称さず、変更したことを明示してください。「NANI Terms」の名称・ロゴについて商標権を許諾するものではありません。無改変の公式版を版番号付きで採用する場合は、上記の標準表記で十分です。
 
 改善提案、誤字、FAQ、翻訳、次期版の提案は [CONTRIBUTING.md](CONTRIBUTING.md) をご覧ください。変更履歴は [CHANGELOG.md](CHANGELOG.md) にあります。
-

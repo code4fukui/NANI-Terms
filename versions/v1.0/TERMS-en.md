@@ -2,6 +2,8 @@
 
 **No Warranty, As-Is, No Liability, It's on you.**
 
+> This English text is a translation. The Japanese text is the official text of NANI Terms v1.0. A Service may specify the governing language in its additional terms, subject to applicable law.
+
 ## 1. AS IS
 
 The Service is provided “AS IS.” To the extent permitted by applicable law, the Operator makes no warranty, express or implied, regarding the Service, including its accuracy, completeness, security, availability, continuity, fitness for a particular purpose, or freedom from defects.
@@ -47,4 +49,3 @@ NANI Terms v1.0 is a fixed version. Publication of a later version does not auto
 ---
 
 NANI Terms is a general-purpose baseline and is not a substitute for legal advice tailored to individual circumstances. Depending on the Service, its users, and applicable law, additional terms, a privacy policy, or other measures may be required.
-
