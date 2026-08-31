@@ -1,5 +1,7 @@
 # NANI Terms
 
+<img src="assets/logo.png" alt="NANI Terms — ナニ・タームズ" width="640">
+
 **No Warranty, As-Is, No Liability, It's on you.**
 
 無料・実験的・小規模なサービスを公開するときのための、シンプルな標準利用規約。

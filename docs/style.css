@@ -23,6 +23,8 @@ nav { min-height: 64px; display: flex; align-items: center; justify-content: spa
 .hero { padding: 88px 0 72px; }
 .eyebrow { color: var(--accent-dark); font-size: .78rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; }
 .nani { margin: 12px 0 4px; font-size: clamp(5rem, 18vw, 12rem); line-height: .84; letter-spacing: -.085em; }
+.hero-logo { display: block; width: min(100%, 760px); height: auto; margin: 16px 0 8px; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
 .tagline { margin: 26px 0 0; max-width: 760px; font-size: clamp(1.25rem, 3vw, 2rem); line-height: 1.35; letter-spacing: -.02em; }
 .lede { max-width: 650px; color: var(--muted); font-size: 1.08rem; }
 .actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 30px; }
@@ -54,4 +56,3 @@ footer { padding: 32px 0; border-top: 1px solid var(--line); color: var(--muted)
   .meaning article { display: grid; grid-template-columns: 50px 1fr; gap: 12px; }
   .meaning article p { grid-column: 2; }
 }
-
